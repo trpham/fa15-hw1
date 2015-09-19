@@ -1,4 +1,5 @@
 require './hw1'
+require './foobar'
 
 def check_squared_sum
   first_sum = squared_sum 1, 2
